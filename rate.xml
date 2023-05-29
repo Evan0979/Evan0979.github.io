@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rates>
+  <rate>
+    <currency>美金</currency>
+    <cashselling>30.5</cashselling>
+  </rate>
+  <rate>
+    <currency>歐元</currency>
+    <cashselling>36.8</cashselling>
+  </rate>
+  <rate>
+    <currency>日圓</currency>
+    <cashselling>0.28</cashselling>
+  </rate>
+  <rate>
+    <currency>韓元</currency>
+    <cashselling>0.026</cashselling>
+  </rate>
+  <rate>
+    <currency>澳幣</currency>
+    <cashselling>22.6</cashselling>
+  </rate>
+</rates>
