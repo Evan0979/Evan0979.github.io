@@ -1,7 +1,7 @@
 function calculate() {
     var twdAmount = document.getElementById("twdAmount").value;
     
-    if (isNaN(twdAmount) || twdAmount <= 0) {
+    if (isNaN(twdAmount) || twdAmount <= 0) {/*第五小題*/
       alert("請輸入有效數值！");
       reset();
       return;
@@ -26,7 +26,7 @@ function calculate() {
     xhr.send();
   }
   
-  function reset() {
+  function reset() {/*第四小題*/
     document.getElementById("twdAmount").value = "";
     document.getElementById("result").innerHTML = "";
   }
